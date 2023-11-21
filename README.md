@@ -23,8 +23,8 @@ This project is an assembler for ARM architecture, designed to convert ARM assem
 
 ### Clone the Repository
 ```bash
-git clone [repository URL]
-cd [repository directory]
+git clone https://github.com/ymty2425/ARM-Assembler.git
+cd ./ARM-Assembler
 ```
 
 ### Build the Project
@@ -37,7 +37,7 @@ Use the assembler to convert ARM assembly code into machine code or an ELF objec
 
 ### Basic Command
 ```bash
-./project04 [options] <sourcefile.asm>
+./armasm [options] <sourcefile.asm>
 ```
 
 ### Options
